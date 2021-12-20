@@ -1,4 +1,5 @@
 # Order API
+![example workflow](https://github.com/br-silvano/demo-springboot-2-java11/actions/workflows/github-actions-demo.yml/badge.svg)
 
 ## Test Execution
 ```bash
