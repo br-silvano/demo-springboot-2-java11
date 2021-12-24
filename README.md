@@ -1,5 +1,6 @@
 # Order API
-![CI/CD FOR DEV](https://github.com/br-silvano/demo-springboot-2-java11/actions/workflows/ci-cd-dev.yml/badge.svg)
+![CI FOR DEV](https://github.com/br-silvano/demo-springboot-2-java11/actions/workflows/ci-dev.yml/badge.svg)
+![CI/CD FOR PROD](https://github.com/br-silvano/demo-springboot-2-java11/actions/workflows/ci-cd-prod.yml/badge.svg)
 
 ## Test Execution
 ```bash
