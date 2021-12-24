@@ -1,11 +1,11 @@
-name: CI/CD FOR DEV
+name: CI FOR DEV
 
 on:
   push:
     branches: [ dev ]
 
 jobs:
-  build:
+  build_and_test:
     runs-on: ubuntu-latest
 
     steps:
