@@ -1,6 +1,8 @@
-name: Java CI
+name: CI/CD FOR DEV
 
-on: [push]
+on:
+  push:
+    branches: [ dev ]
 
 jobs:
   build:
